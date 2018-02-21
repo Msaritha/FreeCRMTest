@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="eCommerceGURU99 Suite" >
+<groups>
+<run>
+
+</run>
+</groups>
+
+
+ <test name="FreeCRM"> 
+    <classes>
+    <class name="\src\test\java\com\qa\FreeCRM\TestCases\LoginPageTest"/>
+
+
+    </classes>
+  </test>
+  
+</suite> <!-- Suite -->
